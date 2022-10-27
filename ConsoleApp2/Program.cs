@@ -76,3 +76,5 @@ namespace ConsoleApp2
                 ch = char.Parse(Console.ReadLine().ToUpper());
             } while ((ch == 'y'));
         }
+    }
+}
